@@ -25,5 +25,5 @@
      => Junit testing
      
 # Screenshots
-    ![](img/home)
+    ![](img/home.png)
   
