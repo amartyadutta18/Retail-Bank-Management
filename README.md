@@ -5,23 +5,23 @@
 
 
 # Technologies Used
-     =>Spring boot/MVC/Spring Tool Suite
-     =>JWT and spring security
-     =>JSP and CSS for web design
-     =>Git bash
+     => Spring boot/MVC/Spring Tool Suite
+     => JWT and spring security
+     => JSP and CSS for web design
+     => Git bash
 
 # Database
-     =>H2 Database
+     => H2 Database
 
 # Deployment and Orchestartion tools
-     =>Docker
-     =>AWS Fargate
-     =>ECS for Containerization
-     =>ECR for Clusters
-     =>AWS IAM role for specific role
-     =>AWS Code Commit
-     =?AWS Code Build
+     => Docker
+     => AWS Fargate
+     => ECS for Containerization
+     => ECR for Clusters
+     => AWS IAM role for specific role
+     => AWS Code Commit
+     => AWS Code Build
 # Unit Testing
-     =>Junit testing
+     => Junit testing
      
      
