@@ -25,5 +25,9 @@
      => Junit testing
      
 # Screenshots
-    ![](https://github.com/amartyadutta18/Retail-Bank-Management/blob/main/img/home.png)
+    
+    ![](img/home.png)
+    
+    ![](img/customerDetails.png)
+    
   
