@@ -26,10 +26,10 @@
      
 # Screenshots
     
-    ![](img/home.png)
+    ![](images/home.png)
     
     
-    ![](img/customerDetails.png)
+    ![](images/customerDetails.png)
     
 
     
