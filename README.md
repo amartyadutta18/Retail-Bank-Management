@@ -26,7 +26,7 @@
      
 # Screenshots
     
-    ![](images/home.png)
+    ![](https://github.com/amartyadutta18/Retail-Bank-Management/blob/main/images/home.png)
     
     
     ![](images/customerDetails.png)
